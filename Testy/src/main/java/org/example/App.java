@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Pierwsza zmiana");
         System.out.println("Druga zmiana");
+        System.out.println("Inna zmiana");
     }
 }
